@@ -1,0 +1,16 @@
+{
+    "compilerOptions": {
+      "experimentalDecorators": true,
+      "emitDecoratorMetadata": true,
+      "target": "es6",
+      "module": "CommonJS",
+      "sourceMap": true,
+      "outDir": "dist",
+      "baseUrl": ".",
+      "esModuleInterop": true,
+      "allowJs": true
+    },
+    "include": ["src/**/*"],
+    "exclude": ["node_modules", "dist"]
+  }
+  
